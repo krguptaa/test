@@ -2,6 +2,6 @@
     "name": "kamlesh-test",
     "description": "First test file by kamlesh",
     "keywords": ["corephp", "php"],
-    "type": "project",
+    "type": "project"
   
 }
